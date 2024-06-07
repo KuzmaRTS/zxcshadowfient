@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zxcshadowfient/static/css/main.b39f6a91.css",
+    "main.js": "/zxcshadowfient/static/js/main.37a77130.js",
+    "index.html": "/zxcshadowfient/index.html",
+    "main.b39f6a91.css.map": "/zxcshadowfient/static/css/main.b39f6a91.css.map",
+    "main.37a77130.js.map": "/zxcshadowfient/static/js/main.37a77130.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39f6a91.css",
+    "static/js/main.37a77130.js"
+  ]
+}
